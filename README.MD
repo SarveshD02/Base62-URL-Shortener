@@ -101,7 +101,3 @@ PORT=8081
 ```bash
 docker compose up --build --scale node-server=3
 ```
-
-## License
-
-This project is provided as-is. See the repository `LICENSE` for license details.
